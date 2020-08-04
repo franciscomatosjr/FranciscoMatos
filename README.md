@@ -15,5 +15,5 @@ Sou apaixonado por resolver problemas utilizando a programação. :computer:
 [![Gmail Badge](https://img.shields.io/badge/-junior.mg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junior.mg@gmail.com)](mailto:junior.mg@gmail.com)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscomatosjr/)](https://www.linkedin.com/in/franciscomatosjr/) 
+[![Linkedin Badge](https://img.shields.io/badge/-FranciscoMatosJr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscomatosjr/)](https://www.linkedin.com/in/franciscomatosjr/) 
 | 
