@@ -14,3 +14,7 @@ Sou apaixonado por resolver problemas utilizando a programação. :computer:
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](hhttps://media-exp1.licdn.com/dms/image/C4E03AQEHwGqKAT6OAA/profile-displayphoto-shrink_200_200/0?e=1602115200&v=beta&t=PB6jdZXj_fTzxhILHvjnYn0FOpEl8yCc3MZ3ujXdZDI)](https://www.linkedin.com/in/franciscomatosjr/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-junior.mg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junior.mg@gmail.com)](mailto:junior.mg@gmail.com)
+
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="flexseth"><a class="LI-simple-link" href="https://www.linkedin.com/in/flexseth?trk=profile-badge">Seth Miller</a></div>
